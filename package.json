@@ -1,0 +1,24 @@
+{
+  "name": "guitarInventory",
+  "version": "1.0.0",
+  "description": "This project is from `reverentgeek` from the blog: https://developer.okta.com/blog/2018/11/15/node-express-typescript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FORGIS98/guitarInventory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FORGIS98/guitarInventory/issues"
+  },
+  "homepage": "https://github.com/FORGIS98/guitarInventory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
